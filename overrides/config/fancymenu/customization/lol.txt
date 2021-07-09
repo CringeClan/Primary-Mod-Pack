@@ -1,0 +1,25 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.DirtMessageScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  rotation = 20.0
+  x = 208
+  actionid = 9d271c17-70f0-4ee4-85ee-946e4bd84baf1625790560679
+  action = addsplash
+  y = 129
+  scale = 1.0
+  refresh = false
+  text = You a bitch
+  bouncing = true
+}
+
